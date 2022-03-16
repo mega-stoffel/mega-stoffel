@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hej there 👋
+
+It's just me. Hanging around here.  
+Having too many ideas for maybe interesting projects. But too little time. And unfortunately I'm losing the connection to the latest IT stuff.
 
 <!--
 **mega-stoffel/mega-stoffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
